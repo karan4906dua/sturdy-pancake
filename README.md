@@ -2,7 +2,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/andrewywong/pathfinding-visualizer
+git clone https://github.com/vivekarora-02/PathFinding-Visualizer.git
 cd Pathfinding-Visualizer
 npm install
 npm start
@@ -21,10 +21,6 @@ Unweighted:
 - Breadth-first search
 
 - Depth-first search
-
-## License
-
-[MIT](https://github.com/andrewywong/pathfinding-visualizer/blob/master/LICENSE)
 
 ## Thanks
 
