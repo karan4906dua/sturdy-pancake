@@ -3,7 +3,7 @@
 
 ```bash
 git clone https://github.com/vivekarora-02/PathFinding-Visualizer.git
-cd Pathfinding-Visualizer
+cd PathFinding-Visualizer
 npm install
 npm start
 ```
