@@ -1,4 +1,7 @@
 # Pathfinding Visualizer
+
+<img src="./images/visualizing.gif">
+
 ## Installation
 
 ```bash
