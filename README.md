@@ -1,6 +1,6 @@
 # Pathfinding Visualizer
 
-<img src="./images/visualizing.gif">
+<img src="./visualizing.gif">
 
 ## Installation
 
