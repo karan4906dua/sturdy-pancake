@@ -96,6 +96,9 @@ export default class Board extends React.PureComponent {
       case ERASING:
         updateNodeType(rowIdx, colIdx, NODE_INITIAL);
         break;
+      default:
+        console.error(`Unexpected mode value: ${this.mode}`);
+        break;
     }
   };
 
