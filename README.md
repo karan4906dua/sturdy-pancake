@@ -10,6 +10,8 @@ cd PathFinding-Visualizer
 npm install
 npm start
 ```
+## Demo
+https://pathfinding-visualizerbyvivek.netlify.app/
 
 ## Algorithm List
 
